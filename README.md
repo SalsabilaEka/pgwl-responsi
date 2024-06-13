@@ -1,1 +1,3 @@
-# pgwl-responsi
+# GIWIS: Geographic Information of Worship in Kota Semarang
+WebGIS interaktif untuk eksplorasi persebaran tempat ibadah agama Islam, Kristen, Katholik, Hindu, Budha, dan Konghuchu di Kota Semarang. WebGIS ini menyediakan beberapa fitur, seperti Map yang menampilkan persebaran titik tempat ibadah masjid, gereja Kristen, gereja Katholik, vihara, klenteng, dan pura. Pengguna dapat menambahkan informasi tempat ibadah dengan Create Point. Fitur Dashboard menyediakan ringkasan dari jumlah tempat ibadah sedangkan fitur Tabel menampilkan informasi tabel atribut titik tempat ibadah. Data persebaran tempat ibadah dapat diunduh dalam bentuk CSV menggunakan fitur Download Data. Fitur-fitur tersebut dapat diakses apabila pengguna sudah Login akun.
+
